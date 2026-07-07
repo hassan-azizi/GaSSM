@@ -1,0 +1,2016 @@
+{
+    "PseudoAtoms": [
+        {
+            "name": "Ac",
+            "print_to_output": true,
+            "element": "Ac",
+            "print_as": "Ac",
+            "mass": 227.0,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Ag",
+            "print_to_output": true,
+            "element": "Ag",
+            "print_as": "Ag",
+            "mass": 107.868,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Al",
+            "print_to_output": true,
+            "element": "Al",
+            "print_as": "Al",
+            "mass": 26.982,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Am",
+            "print_to_output": true,
+            "element": "Am",
+            "print_as": "Am",
+            "mass": 243.0,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Ar",
+            "print_to_output": true,
+            "element": "Ar",
+            "print_as": "Ar",
+            "mass": 39.948,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "As",
+            "print_to_output": true,
+            "element": "As",
+            "print_as": "As",
+            "mass": 74.922,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "At",
+            "print_to_output": true,
+            "element": "At",
+            "print_as": "At",
+            "mass": 210.0,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Au",
+            "print_to_output": true,
+            "element": "Au",
+            "print_as": "Au",
+            "mass": 196.967,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "B",
+            "print_to_output": true,
+            "element": "B",
+            "print_as": "B",
+            "mass": 10.811,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Ba",
+            "print_to_output": true,
+            "element": "Ba",
+            "print_as": "Ba",
+            "mass": 137.327,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Be",
+            "print_to_output": true,
+            "element": "Be",
+            "print_as": "Be",
+            "mass": 9.012,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Bh",
+            "print_to_output": true,
+            "element": "Bh",
+            "print_as": "Bh",
+            "mass": 264.0,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Bi",
+            "print_to_output": true,
+            "element": "Bi",
+            "print_as": "Bi",
+            "mass": 208.98,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Bk",
+            "print_to_output": true,
+            "element": "Bk",
+            "print_as": "Bk",
+            "mass": 247.0,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Br",
+            "print_to_output": true,
+            "element": "Br",
+            "print_as": "Br",
+            "mass": 79.904,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "C",
+            "print_to_output": true,
+            "element": "C",
+            "print_as": "C",
+            "mass": 12.011,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Ca",
+            "print_to_output": true,
+            "element": "Ca",
+            "print_as": "Ca",
+            "mass": 40.078,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Cd",
+            "print_to_output": true,
+            "element": "Cd",
+            "print_as": "Cd",
+            "mass": 112.411,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Ce",
+            "print_to_output": true,
+            "element": "Ce",
+            "print_as": "Ce",
+            "mass": 140.116,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Cf",
+            "print_to_output": true,
+            "element": "Cf",
+            "print_as": "Cf",
+            "mass": 251.0,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Cl",
+            "print_to_output": true,
+            "element": "Cl",
+            "print_as": "Cl",
+            "mass": 35.453,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Cm",
+            "print_to_output": true,
+            "element": "Cm",
+            "print_as": "Cm",
+            "mass": 247.0,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Co",
+            "print_to_output": true,
+            "element": "Co",
+            "print_as": "Co",
+            "mass": 58.933,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Cr",
+            "print_to_output": true,
+            "element": "Cr",
+            "print_as": "Cr",
+            "mass": 51.996,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Cs",
+            "print_to_output": true,
+            "element": "Cs",
+            "print_as": "Cs",
+            "mass": 132.905,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Cu",
+            "print_to_output": true,
+            "element": "Cu",
+            "print_as": "Cu",
+            "mass": 63.546,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Db",
+            "print_to_output": true,
+            "element": "Db",
+            "print_as": "Db",
+            "mass": 262.0,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Ds",
+            "print_to_output": true,
+            "element": "Ds",
+            "print_as": "Ds",
+            "mass": 271.0,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Dy",
+            "print_to_output": true,
+            "element": "Dy",
+            "print_as": "Dy",
+            "mass": 162.5,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Er",
+            "print_to_output": true,
+            "element": "Er",
+            "print_as": "Er",
+            "mass": 167.26,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Es",
+            "print_to_output": true,
+            "element": "Es",
+            "print_as": "Es",
+            "mass": 252.0,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Eu",
+            "print_to_output": true,
+            "element": "Eu",
+            "print_as": "Eu",
+            "mass": 151.964,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "F",
+            "print_to_output": true,
+            "element": "F",
+            "print_as": "F",
+            "mass": 18.998,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Fe",
+            "print_to_output": true,
+            "element": "Fe",
+            "print_as": "Fe",
+            "mass": 55.845,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Fm",
+            "print_to_output": true,
+            "element": "Fm",
+            "print_as": "Fm",
+            "mass": 257.0,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Fr",
+            "print_to_output": true,
+            "element": "Fr",
+            "print_as": "Fr",
+            "mass": 223.0,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Ga",
+            "print_to_output": true,
+            "element": "Ga",
+            "print_as": "Ga",
+            "mass": 69.723,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Gd",
+            "print_to_output": true,
+            "element": "Gd",
+            "print_as": "Gd",
+            "mass": 157.25,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Ge",
+            "print_to_output": true,
+            "element": "Ge",
+            "print_as": "Ge",
+            "mass": 72.61,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "H",
+            "print_to_output": true,
+            "element": "H",
+            "print_as": "H",
+            "mass": 1.008,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "He",
+            "print_to_output": true,
+            "element": "He",
+            "print_as": "He",
+            "mass": 4.003,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Hf",
+            "print_to_output": true,
+            "element": "Hf",
+            "print_as": "Hf",
+            "mass": 178.49,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Hg",
+            "print_to_output": true,
+            "element": "Hg",
+            "print_as": "Hg",
+            "mass": 200.59,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Ho",
+            "print_to_output": true,
+            "element": "Ho",
+            "print_as": "Ho",
+            "mass": 164.93,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Hs",
+            "print_to_output": true,
+            "element": "Hs",
+            "print_as": "Hs",
+            "mass": 269.0,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "I",
+            "print_to_output": true,
+            "element": "I",
+            "print_as": "I",
+            "mass": 126.904,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "In",
+            "print_to_output": true,
+            "element": "In",
+            "print_as": "In",
+            "mass": 114.818,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Ir",
+            "print_to_output": true,
+            "element": "Ir",
+            "print_as": "Ir",
+            "mass": 192.217,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "K",
+            "print_to_output": true,
+            "element": "K",
+            "print_as": "K",
+            "mass": 39.098,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "La",
+            "print_to_output": true,
+            "element": "La",
+            "print_as": "La",
+            "mass": 138.906,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Li",
+            "print_to_output": true,
+            "element": "Li",
+            "print_as": "Li",
+            "mass": 6.941,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Lw",
+            "print_to_output": true,
+            "element": "Lr",
+            "print_as": "Lr",
+            "mass": 262.0,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Lu",
+            "print_to_output": true,
+            "element": "Lu",
+            "print_as": "Lu",
+            "mass": 174.967,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Md",
+            "print_to_output": true,
+            "element": "Md",
+            "print_as": "Md",
+            "mass": 258.0,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Mg",
+            "print_to_output": true,
+            "element": "Mg",
+            "print_as": "Mg",
+            "mass": 24.305,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Mn",
+            "print_to_output": true,
+            "element": "Mn",
+            "print_as": "Mn",
+            "mass": 54.938,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Mo",
+            "print_to_output": true,
+            "element": "Mo",
+            "print_as": "Mo",
+            "mass": 95.94,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Mt",
+            "print_to_output": true,
+            "element": "Mt",
+            "print_as": "Mt",
+            "mass": 268.0,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "N",
+            "print_to_output": true,
+            "element": "N",
+            "print_as": "N",
+            "mass": 14.007,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Na",
+            "print_to_output": true,
+            "element": "Na",
+            "print_as": "Na",
+            "mass": 22.991,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Nb",
+            "print_to_output": true,
+            "element": "Nb",
+            "print_as": "Nb",
+            "mass": 92.906,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Nd",
+            "print_to_output": true,
+            "element": "Nd",
+            "print_as": "Nd",
+            "mass": 144.24,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Ne",
+            "print_to_output": true,
+            "element": "Ne",
+            "print_as": "Ne",
+            "mass": 20.18,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Ni",
+            "print_to_output": true,
+            "element": "Ni",
+            "print_as": "Ni",
+            "mass": 58.693,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "No",
+            "print_to_output": true,
+            "element": "No",
+            "print_as": "No",
+            "mass": 259.0,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Np",
+            "print_to_output": true,
+            "element": "Np",
+            "print_as": "Np",
+            "mass": 237.0,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "O",
+            "print_to_output": true,
+            "element": "O",
+            "print_as": "O",
+            "mass": 15.999,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Os",
+            "print_to_output": true,
+            "element": "Os",
+            "print_as": "Os",
+            "mass": 190.23,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "P",
+            "print_to_output": true,
+            "element": "P",
+            "print_as": "P",
+            "mass": 30.974,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Pa",
+            "print_to_output": true,
+            "element": "Pa",
+            "print_as": "Pa",
+            "mass": 231.036,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Pb",
+            "print_to_output": true,
+            "element": "Pb",
+            "print_as": "Pb",
+            "mass": 207.2,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Pd",
+            "print_to_output": true,
+            "element": "Pd",
+            "print_as": "Pd",
+            "mass": 106.42,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Pm",
+            "print_to_output": true,
+            "element": "Pm",
+            "print_as": "Pm",
+            "mass": 145.0,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Po",
+            "print_to_output": true,
+            "element": "Po",
+            "print_as": "Po",
+            "mass": 210.0,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Pr",
+            "print_to_output": true,
+            "element": "Pr",
+            "print_as": "Pr",
+            "mass": 140.908,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Pt",
+            "print_to_output": true,
+            "element": "Pt",
+            "print_as": "Pt",
+            "mass": 195.078,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Pu",
+            "print_to_output": true,
+            "element": "Pu",
+            "print_as": "Pu",
+            "mass": 244.0,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Ra",
+            "print_to_output": true,
+            "element": "Ra",
+            "print_as": "Ra",
+            "mass": 226.0,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Rb",
+            "print_to_output": true,
+            "element": "Rb",
+            "print_as": "Rb",
+            "mass": 85.468,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Re",
+            "print_to_output": true,
+            "element": "Re",
+            "print_as": "Re",
+            "mass": 186.207,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Rf",
+            "print_to_output": true,
+            "element": "Rf",
+            "print_as": "Rf",
+            "mass": 261.0,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Rh",
+            "print_to_output": true,
+            "element": "Rh",
+            "print_as": "Rh",
+            "mass": 102.906,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Rn",
+            "print_to_output": true,
+            "element": "Rn",
+            "print_as": "Rn",
+            "mass": 222.0,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Ru",
+            "print_to_output": true,
+            "element": "Ru",
+            "print_as": "Ru",
+            "mass": 101.07,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "S",
+            "print_to_output": true,
+            "element": "S",
+            "print_as": "S",
+            "mass": 32.066,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Sb",
+            "print_to_output": true,
+            "element": "Sb",
+            "print_as": "Sb",
+            "mass": 121.76,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Sc",
+            "print_to_output": true,
+            "element": "Sc",
+            "print_as": "Sc",
+            "mass": 44.956,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Se",
+            "print_to_output": true,
+            "element": "Se",
+            "print_as": "Se",
+            "mass": 78.96,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Sg",
+            "print_to_output": true,
+            "element": "Sg",
+            "print_as": "Sg",
+            "mass": 266.0,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Si",
+            "print_to_output": true,
+            "element": "Si",
+            "print_as": "Si",
+            "mass": 28.086,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Sm",
+            "print_to_output": true,
+            "element": "Sm",
+            "print_as": "Sm",
+            "mass": 150.36,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Sn",
+            "print_to_output": true,
+            "element": "Sn",
+            "print_as": "Sn",
+            "mass": 118.71,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Sr",
+            "print_to_output": true,
+            "element": "Sr",
+            "print_as": "Sr",
+            "mass": 87.62,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Ta",
+            "print_to_output": true,
+            "element": "Ta",
+            "print_as": "Ta",
+            "mass": 180.948,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Tb",
+            "print_to_output": true,
+            "element": "Tb",
+            "print_as": "Tb",
+            "mass": 158.925,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Tc",
+            "print_to_output": true,
+            "element": "Tc",
+            "print_as": "Tc",
+            "mass": 98.0,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Te",
+            "print_to_output": true,
+            "element": "Te",
+            "print_as": "Te",
+            "mass": 127.6,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Th",
+            "print_to_output": true,
+            "element": "Th",
+            "print_as": "Th",
+            "mass": 232.038,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Ti",
+            "print_to_output": true,
+            "element": "Ti",
+            "print_as": "Ti",
+            "mass": 47.867,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Tl",
+            "print_to_output": true,
+            "element": "Tl",
+            "print_as": "Tl",
+            "mass": 204.383,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Tm",
+            "print_to_output": true,
+            "element": "Tm",
+            "print_as": "Tm",
+            "mass": 168.934,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "U",
+            "print_to_output": true,
+            "element": "U",
+            "print_as": "U",
+            "mass": 238.029,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "V",
+            "print_to_output": true,
+            "element": "V",
+            "print_as": "V",
+            "mass": 50.942,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "W",
+            "print_to_output": true,
+            "element": "W",
+            "print_as": "W",
+            "mass": 183.84,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Y",
+            "print_to_output": true,
+            "element": "Y",
+            "print_as": "Y",
+            "mass": 88.906,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Yb",
+            "print_to_output": true,
+            "element": "Yb",
+            "print_as": "Yb",
+            "mass": 173.04,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Zn",
+            "print_to_output": true,
+            "element": "Zn",
+            "print_as": "Zn",
+            "mass": 65.39,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "Zr",
+            "print_to_output": true,
+            "element": "Zr",
+            "print_as": "Zr",
+            "mass": 91.224,
+            "charge": 0.0,
+            "framework": true
+        },
+        {
+            "name": "N_n2",
+            "print_to_output": true,
+            "element": "N",
+            "print_as": "N",
+            "mass": 14.0067,
+            "charge": -0.482,
+            "framework": false
+        },
+        {
+            "name": "N_com",
+            "print_to_output": false,
+            "element": "N",
+            "print_as": "N",
+            "mass": 0.0,
+            "charge": 0.964,
+            "framework": false
+        },
+        {
+            "name": "Xe",
+            "framework": false,
+            "print_to_output": true,
+            "element": "Xe",
+            "print_as": "Xe",
+            "mass": 131.29,
+            "charge": 0.0
+        },
+        {
+            "name": "Kr",
+            "framework": false,
+            "print_to_output": true,
+            "element": "Kr",
+            "print_as": "Kr",
+            "mass": 83.8,
+            "charge": 0.0
+        },
+        {
+            "name": "O_o2",
+            "print_to_output": false,
+            "element": "O",
+            "print_as": "O",
+            "mass": 15.999,
+            "charge": -0.113,
+            "framework": false
+        },
+        {
+            "name": "O_com",
+            "print_to_output": false,
+            "element": "O",
+            "print_as": "O",
+            "mass": 0,
+            "charge": 0.226,
+            "framework": false
+        },
+        {
+            "name": "ch4_sp3",
+            "print_to_output": false,
+            "element": "ch4",
+            "print_as": "ch4",
+            "mass": 16.04246,
+            "charge": 0.0,
+            "framework": false
+        }
+    ],
+    "SelfInteractions": [
+        {
+            "name": "Ac",
+            "type": "lennard-jones",
+            "parameters": [
+                16.6,
+                3.1
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Ag",
+            "type": "lennard-jones",
+            "parameters": [
+                18.11,
+                2.8
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Al",
+            "type": "lennard-jones",
+            "parameters": [
+                156.0,
+                3.91
+            ],
+            "source": "DREIDING"
+        },
+        {
+            "name": "Am",
+            "type": "lennard-jones",
+            "parameters": [
+                7.04,
+                3.01
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Ar",
+            "type": "lennard-jones",
+            "parameters": [
+                124.07,
+                3.42
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "As",
+            "type": "lennard-jones",
+            "parameters": [
+                155.47,
+                3.77
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "At",
+            "type": "lennard-jones",
+            "parameters": [
+                142.89,
+                4.23
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Au",
+            "type": "lennard-jones",
+            "parameters": [
+                19.62,
+                2.93
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "B",
+            "type": "lennard-jones",
+            "parameters": [
+                47.81,
+                3.58
+            ],
+            "source": "DREIDING"
+        },
+        {
+            "name": "Ba",
+            "type": "lennard-jones",
+            "parameters": [
+                183.15,
+                3.3
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Be",
+            "type": "lennard-jones",
+            "parameters": [
+                42.77,
+                2.45
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Bi",
+            "type": "lennard-jones",
+            "parameters": [
+                260.63,
+                3.89
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Bk",
+            "type": "lennard-jones",
+            "parameters": [
+                6.54,
+                2.97
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Br",
+            "type": "lennard-jones",
+            "parameters": [
+                186.1912,
+                3.51905
+            ],
+            "source": "Dreiding"
+        },
+        {
+            "name": "C",
+            "type": "lennard-jones",
+            "parameters": [
+                47.86,
+                3.47
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Ca",
+            "type": "lennard-jones",
+            "parameters": [
+                25.16,
+                3.09
+            ],
+            "source": "DREIDING"
+        },
+        {
+            "name": "Cd",
+            "type": "lennard-jones",
+            "parameters": [
+                114.72,
+                2.54
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Ce",
+            "type": "lennard-jones",
+            "parameters": [
+                6.54,
+                3.17
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Cf",
+            "type": "lennard-jones",
+            "parameters": [
+                6.54,
+                2.95
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Cl",
+            "type": "lennard-jones",
+            "parameters": [
+                142.56,
+                3.52
+            ],
+            "source": "DREIDING"
+        },
+        {
+            "name": "Cm",
+            "type": "lennard-jones",
+            "parameters": [
+                6.54,
+                2.96
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Co",
+            "type": "lennard-jones",
+            "parameters": [
+                7.04,
+                2.56
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Cr",
+            "type": "lennard-jones",
+            "parameters": [
+                7.55,
+                2.69
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Cu",
+            "type": "lennard-jones",
+            "parameters": [
+                2.52,
+                3.11
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Cs",
+            "type": "lennard-jones",
+            "parameters": [
+                22.64,
+                4.02
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Dy",
+            "type": "lennard-jones",
+            "parameters": [
+                3.52,
+                3.02
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Eu",
+            "type": "lennard-jones",
+            "parameters": [
+                4.03,
+                3.11
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Er",
+            "type": "lennard-jones",
+            "parameters": [
+                3.52,
+                3.05
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Es",
+            "type": "lennard-jones",
+            "parameters": [
+                6.04,
+                2.93
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "F",
+            "type": "lennard-jones",
+            "parameters": [
+                36.48,
+                3.09
+            ],
+            "source": "DREIDING"
+        },
+        {
+            "name": "Fe",
+            "type": "lennard-jones",
+            "parameters": [
+                27.68,
+                4.04
+            ],
+            "source": "DREIDING"
+        },
+        {
+            "name": "Fm",
+            "type": "lennard-jones",
+            "parameters": [
+                6.04,
+                2.93
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Fr",
+            "type": "lennard-jones",
+            "parameters": [
+                25.16,
+                4.37
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Ga",
+            "type": "lennard-jones",
+            "parameters": [
+                208.81,
+                3.9
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Ge",
+            "type": "lennard-jones",
+            "parameters": [
+                190.69,
+                3.81
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Gd",
+            "type": "lennard-jones",
+            "parameters": [
+                4.53,
+                3.0
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "H",
+            "type": "lennard-jones",
+            "parameters": [
+                7.65,
+                2.85
+            ],
+            "source": "DREIDING"
+        },
+        {
+            "name": "He",
+            "type": "lennard-jones",
+            "parameters": [
+                10.9,
+                2.64
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Hf",
+            "type": "lennard-jones",
+            "parameters": [
+                36.23,
+                2.8
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Hg",
+            "type": "lennard-jones",
+            "parameters": [
+                193.71,
+                2.41
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Ho",
+            "type": "lennard-jones",
+            "parameters": [
+                3.52,
+                3.04
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "I",
+            "type": "lennard-jones",
+            "parameters": [
+                170.57,
+                4.01
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "In",
+            "type": "lennard-jones",
+            "parameters": [
+                301.39,
+                3.98
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Ir",
+            "type": "lennard-jones",
+            "parameters": [
+                36.73,
+                2.53
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "K",
+            "type": "lennard-jones",
+            "parameters": [
+                17.61,
+                3.4
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "La",
+            "type": "lennard-jones",
+            "parameters": [
+                8.55,
+                3.14
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Li",
+            "type": "lennard-jones",
+            "parameters": [
+                12.58,
+                2.18
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Lu",
+            "type": "lennard-jones",
+            "parameters": [
+                20.63,
+                3.24
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Lw",
+            "type": "lennard-jones",
+            "parameters": [
+                5.53,
+                2.88
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Md",
+            "type": "lennard-jones",
+            "parameters": [
+                5.53,
+                2.92
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Mg",
+            "type": "lennard-jones",
+            "parameters": [
+                55.85,
+                2.69
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Mn",
+            "type": "lennard-jones",
+            "parameters": [
+                6.54,
+                2.64
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Mo",
+            "type": "lennard-jones",
+            "parameters": [
+                28.18,
+                2.72
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "N",
+            "type": "lennard-jones",
+            "parameters": [
+                38.95,
+                3.26
+            ],
+            "source": "DREIDING"
+        },
+        {
+            "name": "Na",
+            "type": "lennard-jones",
+            "parameters": [
+                15.09,
+                2.66
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Ne",
+            "type": "lennard-jones",
+            "parameters": [
+                21.13,
+                2.66
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Nb",
+            "type": "lennard-jones",
+            "parameters": [
+                29.69,
+                2.82
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Nd",
+            "type": "lennard-jones",
+            "parameters": [
+                5.03,
+                3.18
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "No",
+            "type": "lennard-jones",
+            "parameters": [
+                5.53,
+                2.89
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Ni",
+            "type": "lennard-jones",
+            "parameters": [
+                7.55,
+                2.52
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Np",
+            "type": "lennard-jones",
+            "parameters": [
+                9.56,
+                3.05
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "O",
+            "type": "lennard-jones",
+            "parameters": [
+                48.16,
+                3.03
+            ],
+            "source": "DREIDING"
+        },
+        {
+            "name": "Os",
+            "type": "lennard-jones",
+            "parameters": [
+                18.62,
+                2.78
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "P",
+            "type": "lennard-jones",
+            "parameters": [
+                161.03,
+                3.7
+            ],
+            "source": "DREIDING"
+        },
+        {
+            "name": "Pa",
+            "type": "lennard-jones",
+            "parameters": [
+                11.07,
+                3.05
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Pb",
+            "type": "lennard-jones",
+            "parameters": [
+                333.59,
+                3.83
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Pd",
+            "type": "lennard-jones",
+            "parameters": [
+                24.15,
+                2.58
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Pm",
+            "type": "lennard-jones",
+            "parameters": [
+                4.53,
+                3.16
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Po",
+            "type": "lennard-jones",
+            "parameters": [
+                163.52,
+                4.2
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Pr",
+            "type": "lennard-jones",
+            "parameters": [
+                5.03,
+                3.21
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Pt",
+            "type": "lennard-jones",
+            "parameters": [
+                40.25,
+                2.45
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Pu",
+            "type": "lennard-jones",
+            "parameters": [
+                8.05,
+                3.05
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Ra",
+            "type": "lennard-jones",
+            "parameters": [
+                203.27,
+                3.28
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Rb",
+            "type": "lennard-jones",
+            "parameters": [
+                20.13,
+                3.67
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Re",
+            "type": "lennard-jones",
+            "parameters": [
+                33.21,
+                2.63
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Rh",
+            "type": "lennard-jones",
+            "parameters": [
+                26.67,
+                2.61
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Rn",
+            "type": "lennard-jones",
+            "parameters": [
+                124.78,
+                4.25
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Ru",
+            "type": "lennard-jones",
+            "parameters": [
+                28.18,
+                2.64
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "S",
+            "type": "lennard-jones",
+            "parameters": [
+                173.11,
+                3.59
+            ],
+            "source": "DREIDING"
+        },
+        {
+            "name": "Sb",
+            "type": "lennard-jones",
+            "parameters": [
+                225.91,
+                3.94
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Sc",
+            "type": "lennard-jones",
+            "parameters": [
+                9.56,
+                2.94
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Se",
+            "type": "lennard-jones",
+            "parameters": [
+                146.42,
+                3.75
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Si",
+            "type": "lennard-jones",
+            "parameters": [
+                156.0,
+                3.8
+            ],
+            "source": "DREIDING"
+        },
+        {
+            "name": "Sm",
+            "type": "lennard-jones",
+            "parameters": [
+                4.03,
+                3.14
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Sn",
+            "type": "lennard-jones",
+            "parameters": [
+                285.28,
+                3.91
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Sr",
+            "type": "lennard-jones",
+            "parameters": [
+                118.24,
+                3.24
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Ta",
+            "type": "lennard-jones",
+            "parameters": [
+                40.75,
+                2.82
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Tb",
+            "type": "lennard-jones",
+            "parameters": [
+                3.52,
+                3.07
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Tc",
+            "type": "lennard-jones",
+            "parameters": [
+                24.15,
+                2.67
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Te",
+            "type": "lennard-jones",
+            "parameters": [
+                200.25,
+                3.98
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Th",
+            "type": "lennard-jones",
+            "parameters": [
+                13.08,
+                3.03
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Ti",
+            "type": "lennard-jones",
+            "parameters": [
+                8.55,
+                2.83
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Tl",
+            "type": "lennard-jones",
+            "parameters": [
+                342.14,
+                3.87
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Tm",
+            "type": "lennard-jones",
+            "parameters": [
+                3.02,
+                3.01
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "U",
+            "type": "lennard-jones",
+            "parameters": [
+                11.07,
+                3.02
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "V",
+            "type": "lennard-jones",
+            "parameters": [
+                8.05,
+                2.8
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "W",
+            "type": "lennard-jones",
+            "parameters": [
+                33.71,
+                2.73
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Y",
+            "type": "lennard-jones",
+            "parameters": [
+                36.23,
+                2.98
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Yb",
+            "type": "lennard-jones",
+            "parameters": [
+                114.72,
+                2.99
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Zn",
+            "type": "lennard-jones",
+            "parameters": [
+                27.68,
+                4.04
+            ],
+            "source": "DREIDING"
+        },
+        {
+            "name": "Zr",
+            "type": "lennard-jones",
+            "parameters": [
+                34.72,
+                2.78
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "N_n2",
+            "type": "lennard-jones",
+            "parameters": [
+                36.0,
+                3.31
+            ],
+            "source": "TraPPE"
+        },
+        {
+            "name": "N_com",
+            "type": "none",
+            "parameters": [
+                0.0,
+                1.0
+            ],
+            "source": "TraPPE"
+        },
+        {
+            "name": "Xe",
+            "type": "lennard-jones",
+            "parameters": [
+                167.04,
+                3.92
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "Kr",
+            "type": "lennard-jones",
+            "parameters": [
+                110.69,
+                3.69
+            ],
+            "source": "UFF"
+        },
+        {
+            "name": "O_o2",
+            "type": "lennard-jones",
+            "parameters": [
+                49.0,
+                3.020
+            ],
+            "source": "TraPPE"
+        },
+        {
+            "name": "O_com",
+            "type": "none",
+            "parameters": [
+                0.0,
+                1.0
+            ],
+            "source": "TraPPE"
+        },
+        {
+            "name": "ch4_sp3",
+            "type": "lennard-jones",
+            "parameters": [
+                148,
+                3.73
+            ],
+            "source": "TraPPE"
+        }
+    ],
+    "MixingRule": "Lorentz-Berthelot",
+    "TruncationMethod": "truncated",
+    "TailCorrections": true
+}

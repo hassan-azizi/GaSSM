@@ -1,0 +1,26 @@
+structure = "18ACM004_test_pacman.cif"
+output = "sim.input"
+force_field = "ForceField/force_field.json"
+
+[adsorbate]
+species = "Xe"
+
+[run]
+cutoff = 12.0
+fh_signal = 1
+temperature = 300.0
+running_steps = 10000
+
+[string]
+# Not all dimensions work for the given structure
+direction = 2
+points = 500
+delta_frac = 0.000100
+delta_angle_degree = 1.0
+convergence_setting = "default"
+
+[legacy]
+nmaxa = 70
+nmaxb = 70
+nmaxc = 70
+dL = 0.5
