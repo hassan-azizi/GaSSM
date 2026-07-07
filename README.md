@@ -11,7 +11,7 @@ We are still actively developing this program and extending it to more systems (
 In order to use this executable file, Nvidia CUDA toolkit is required. Check CUDA availability and version 'nvcc --version'. The current version has been tested under CUA V11.1.105.
 
 ## Install
-After cloning this repository, the program would be installed simple by executing 'install.bash'.
+After cloning this repository, the program would be installed simple by executing 'compile.bash'.
 
 ## Run the example
 After uploading all the files, run the calculation simply by the following command:
